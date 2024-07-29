@@ -8,4 +8,3 @@ To get started with the project, follow these steps:
 
    ```bash
    git clone https://github.com/anzilabdulhakkim/sidebar_template.git
-   cd sidebar-app
