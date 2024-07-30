@@ -4,7 +4,7 @@ import React from 'react';
 const Contact: React.FC = () => {
   return (
     <div className="flex justify-center items-center min-h-screen p-5">
-      <div className="max-w-md bg-white shadow-lg rounded-lg p-8">
+      <div className="max-w-md bg-white shadow-lg rounded-lg p-4">
         <h1 className="text-3xl font-bold mb-5">Contact</h1>
         <p className="text-gray-700">
           If you have any questions or need further information, feel free to contact us:
