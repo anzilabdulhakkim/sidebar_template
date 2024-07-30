@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Home component displaying the main landing page content
 const Home: React.FC = () => {
   return (
     <div className="flex justify-center items-center min-h-screen p-10">

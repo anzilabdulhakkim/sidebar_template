@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 
+// Main App component that sets up routing and layout
 const App: React.FC = () => {
   return (
     <BrowserRouter>

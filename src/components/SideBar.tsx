@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+// Sidebar component with navigation links
 const Sidebar: React.FC = () => {
   return (
     <div className="w-64 h-screen bg-gray-800 text-white">

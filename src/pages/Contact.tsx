@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Contact component displaying contact information
 const Contact: React.FC = () => {
   return (
     <div className="flex justify-center items-center min-h-screen p-10">

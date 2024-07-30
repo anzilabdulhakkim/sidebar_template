@@ -1,5 +1,6 @@
 import React from 'react';
 
+// About component displaying About information
 const About: React.FC = () => {
   return (
     <div className="flex justify-center items-center min-h-screen p-10">
