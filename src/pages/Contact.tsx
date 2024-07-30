@@ -3,7 +3,7 @@ import React from 'react';
 // Contact component displaying contact information
 const Contact: React.FC = () => {
   return (
-    <div className="flex justify-center items-center min-h-screen p-10">
+    <div className="flex justify-center items-center min-h-screen p-5">
       <div className="max-w-md bg-white shadow-lg rounded-lg p-8">
         <h1 className="text-3xl font-bold mb-5">Contact</h1>
         <p className="text-gray-700">
